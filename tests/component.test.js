@@ -1,4 +1,4 @@
-const Component = require('../lib/components.js')
+const Component = require('../lib/components')
 
 describe('Component Class', () => {
     it('render() throws an error when called directly', () => {
